@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASFoods</string>
+
+    <string name="month">Jan</string>
+    <string name="year">2020</string>
+    <string name="date">01</string>
+    <string name="weekday">Mon</string>
+    <string name="daytask">*</string>
+    <string name="Mainday">TODAY</string>
+    <string name="todo">todo</string>
+    <string name="comma">,</string>
+</resources>
